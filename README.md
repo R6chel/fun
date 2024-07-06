@@ -1,1 +1,0 @@
-This is a test repository for both fun and unfun things.
